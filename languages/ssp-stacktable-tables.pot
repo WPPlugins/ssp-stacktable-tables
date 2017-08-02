@@ -1,0 +1,99 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SSP Stacktable Tables\n"
+"POT-Creation-Date: 2017-03-13 15:56-0700\n"
+"PO-Revision-Date: 2017-03-13 15:55-0700\n"
+"Last-Translator: Stephen Sherrard <dbarproductions@gmail.com>\n"
+"Language-Team: Stephen Sherrard <dbarproductions@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ssp-stacktable-tables.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ssp-stacktable-tables.php:44
+msgid "Settings"
+msgstr ""
+
+#: ssp-stacktable-tables.php:45
+msgid "Enable on pages: "
+msgstr ""
+
+#: ssp-stacktable-tables.php:46
+msgid "Disable CSS?"
+msgstr ""
+
+#: ssp-stacktable-tables.php:52
+msgid "SSP Stacktable"
+msgstr ""
+
+#: ssp-stacktable-tables.php:77
+msgid "Settings for SSP Stacktable Tables"
+msgstr ""
+
+#: ssp-stacktable-tables.php:84
+msgid "None (disabled)"
+msgstr ""
+
+#: ssp-stacktable-tables.php:84
+msgid "ALL Pages and Posts"
+msgstr ""
+
+#: ssp-stacktable-tables.php:100
+msgid "Reset to None"
+msgstr ""
+
+#: ssp-stacktable-tables.php:102
+msgid ""
+"Select one or more pages where you want the script to be enqueued. "
+"Stacktable formatting will apply to ALL tables on the selected pages.<br/"
+">Select the ALL option to globally load the script on ALL pages of your site."
+"<br/>Select the None option to disable the script everywhere (or just "
+"deactivate the plugin)."
+msgstr ""
+
+#: ssp-stacktable-tables.php:115
+msgid ""
+"Check this to disable the plugin stacktable.css stylesheet. Copy that style "
+"sheet CSS to your theme and modify and add to as desired to customize. <br/"
+"><strong>NOTE: If you do not copy the necessary CSS to your theme, checking "
+"this option will effectively disable the stacktable script since the mobile "
+"breakpoint is defined in the CSS and the mobile class will never get applied."
+"</strong>"
+msgstr ""
+
+#: ssp-stacktable-tables.php:121
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: ssp-stacktable-tables.php:127
+msgid "SSP Stacktable Tables"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/ssp-stacktable-tables"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Reformat tables for mobile devices using the jQuery Stacktable plugin from "
+"John Polacek."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "John Polacek & Stephen Sherrard"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://stephensherrardplugins.com"
+msgstr ""
